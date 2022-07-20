@@ -1,0 +1,14 @@
+.counter-individual-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 400px;
+    height: 250px;
+    border: 5px solid white;
+    margin-bottom: 15px;
+    color: #3f3f3f;
+    font-size: 78px;
+    font-weight: bold;
+    border-radius: 15px;
+    background: white;
+}

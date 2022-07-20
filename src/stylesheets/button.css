@@ -1,0 +1,25 @@
+button {
+    width: 150px;
+    height: 75px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    transition: all 0.3s;
+    border: 0px;
+}
+
+.click-button {
+    background-color: #1782D7;
+    color: white;
+}
+
+.reset-button {
+    background-color: #1782D7;
+    color: white;
+}
+
+button:hover {
+    background-color: #4395d8;
+}
+
